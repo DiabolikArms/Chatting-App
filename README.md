@@ -24,7 +24,7 @@ One should first clone the repository in the local machine or download the zip f
 There are two folders: one of the backend and one of frontend.
 
 Separately open terminals in both of these4 folders and follow the command:
-# FRONTEND
+### FRONTEND
 To install all the dependencies:
 ```bash
   npm i
@@ -38,7 +38,7 @@ If the port 3000 is busy then dont run on any other port, kill the port 3000 and
   npx kill-port 3000
 ```
 
-# BACKEND
+### BACKEND
 Be assured that the npm, node etc are installed in your local repository, if it is installed then proceed to the deployement of the server. 
 
 To install all the dependencies:
@@ -53,4 +53,21 @@ If the port 3001 is busy then dont run on any other port, kill the port 3001 and
 ```bash
   npx kill-port 3001
 ```
+
+
+## LOGIN IDS
+
+- diabolopainprince@gmail.com -> PASSWORD - 123456
+
+- 21ee01051@iitbbs.ac.in -> PASSWORD - 123456
+
+- ak7032003@gmail.com -> PASSWORD - 123456
+
+
+## POINTS TO BE NOTED 
+
+
+- If you login to see the interface betweeen different users, use different browsers for each user login and if there is some error in between, then try clearing the localstorage of the browser and restarting the backend.
+
+- Mailgun API which is send mails only to verified emails that the developer needs to verify there at the mailgun website. I only verified three mail ids mentioned above. So, unfortunely, the tester can't check the register account facility used in the app as it sends an OTP as a mail to the email id entered which can't be sent because I have not verified it in my mailgun API key. 
 
