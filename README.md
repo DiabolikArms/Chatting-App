@@ -57,6 +57,7 @@ If the port 3001 is busy then dont run on any other port, kill the port 3001 and
 
 ## LOGIN IDS
 
+(Well, you can always emal me on any of these email ids to send me review on my project)
 - diabolopainprince@gmail.com -> PASSWORD - 123456
 
 - 21ee01051@iitbbs.ac.in -> PASSWORD - 123456
